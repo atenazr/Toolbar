@@ -1,4 +1,19 @@
 # toolbar-test
+a toolbar is reactive to mouse and shortKeys that look like the following image and show which tool has been selected.
+
+Notes:
+
+First, click on the page to focus on it,then the shorkeys of keyboard work.
+
+toolSet (Array): [ {name:'Brush', icon: 'brush', shortKey:'1'},{name:'Magic Pen',
+icon: 'magic-pen', shortKey:'2'}, ... ]
+
+ESC ShortKey: switch to hand mode
+
+![demo](https://github.com/atenazr/Toolbar/blob/master/demo/toolbar1.png)
+
+
+
 
 ## Project setup
 ```
